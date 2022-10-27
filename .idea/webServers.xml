@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8cbfa5e5-6ace-4b69-96c1-ea7bdb36df1e" name="Mixed Vinyls" url="http://127.0.0.1:8000">
+        <fileTransfer mountedRoot="C:\wamp64\www\mixed_vinyls" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
